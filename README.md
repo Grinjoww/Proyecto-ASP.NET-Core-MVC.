@@ -1,4 +1,3 @@
-# Proyecto-ASP.NET-Core-MVC.
 # Práctica 7 - Desarrollo Web con Java, JSP y Spring Boot
 
 Repositorio correspondiente a la Práctica 7 de Aplicaciones Web, desarrollada para la carrera de Ingeniería de Software de la Universidad Técnica Estatal de Quevedo (UTEQ).
